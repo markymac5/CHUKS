@@ -12,10 +12,14 @@ http://og.streamtv.to:8080/OKCkstalker/kZ5zHYW4gA/555
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/ozkDfKk.png" group-title="SPORTS",NBCSN
 http://neczbm.to:80/play/N8Lr-AT3gpG9_Vu_K4veuAWJssGWUhT83eDhSmKL07RLMoyaAfZGVlA83S1B8XYE/ts
 
+
 #EXTINF:-1 tvg-id="" tvg-name="TRACE NAIJA" tvg-logo="https://i.imgur.com/ZlqV5dL.png" group-title="MUSIC",TRACE NAIJA
 http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/283027
-#EXTINF:-1 tvg-id="" tvg-name="Afro Beats" tvg-logo="https://i.imgur.com/cYl44pb.jpg" group-title="MUSIC",AF
+#EXTINF:-1 tvg-id="" tvg-name="AFRO BEATS" tvg-logo="https://i.imgur.com/cYl44pb.jpg" group-title="MUSIC",AFRO BEATS
 https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/FIu21Vt.png" group-title="MUSIC",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
 
 #EXTINF:-1 tvg-name="News Max" tvg-id="" tvg-logo="https://i.imgur.com/U0lOmkF.png" group-title="NEWS",News Max
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
@@ -24,5 +28,12 @@ http://we.caughtyousnooping.club:80/Rack188/i4Ty9ghgDK/1163
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
 http://mains.services:2086/nick5404/9928627/95386
 
+
 #EXTINF:-1 tvg-name="Africa Magic Showcase" tvg-id="" tvg-logo="https://i.imgur.com/8rnXoq4.png" group-title="AFRICA",Africa Magic Showcase
 http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/51115
+
+
+#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",USA Network
+http://securetv.net:8080/ER3Hadach9/1617294774/15905
+#EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV1
+https://vipvikingz.com/101402816/T3ZvI3Q6ya/8000014617
