@@ -13,5 +13,9 @@ http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/283027
 #EXTINF:-1 tvg-id="" tvg-name="Afro Beats" tvg-logo="https://i.imgur.com/cYl44pb.jpg" group-title="MUSIC",AF
 https://stream.ecable.tv/afrobeats/index.m3u8
 
-#EXTINF:-1 tvg-name="NewsMax" tvg-id="" tvg-logo="https://i.imgur.com/U0lOmkF.png" group-title="NEWS CHANNELS",
+#EXTINF:-1 tvg-name="News Max" tvg-id="" tvg-logo="https://i.imgur.com/U0lOmkF.png" group-title="NEWS",News Max
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
+http://we.caughtyousnooping.club:80/Rack188/i4Ty9ghgDK/1163
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
+http://mains.services:2086/nick5404/9928627/95386
