@@ -27,6 +27,8 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 http://we.caughtyousnooping.club:80/Rack188/i4Ty9ghgDK/1163
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
 http://mains.services:2086/nick5404/9928627/95386
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="https://i.imgur.com/8dfvAm1.png" group-title="NEWS",Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Africa Magic Showcase" tvg-id="" tvg-logo="https://i.imgur.com/8rnXoq4.png" group-title="AFRICA",Africa Magic Showcase
