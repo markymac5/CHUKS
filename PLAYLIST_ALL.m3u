@@ -11,22 +11,26 @@ http://unitediptv.xyz:12974/Goldenmedia/Deki691245/5718
 http://og.streamtv.to:8080/OKCkstalker/kZ5zHYW4gA/555
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/ozkDfKk.png" group-title="SPORTS",NBCSN
 http://neczbm.to:80/play/N8Lr-AT3gpG9_Vu_K4veuAWJssGWUhT83eDhSmKL07RLMoyaAfZGVlA83S1B8XYE/ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS",BEIN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS",BEIN SPORTS 1
 http://unitediptv.xyz:12974/Goldenmedia/Deki691245/5727
-#EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS",SKY MAIN EVENT
+#EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS",SKY MAIN EVENT
 http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/259
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/ozkDfKk.png" group-title="SPORTS",NBCSN
 http://ay32.aatvbox.club:8880/wh24m2122/TeEfz2hUKN/29633
 
-#EXTINF:-1 tvg-id="" tvg-name="TRACE NAIJA" tvg-logo="https://i.imgur.com/ZlqV5dL.png" group-title="MUSIC",TRACE NAIJA
-http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/283027
-#EXTINF:-1 tvg-id="" tvg-name="AFRO BEATS" tvg-logo="https://i.imgur.com/cYl44pb.jpg" group-title="MUSIC",AFRO BEATS
-https://stream.ecable.tv/afrobeats/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/FIu21Vt.png" group-title="MUSIC",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/FIu21Vt.png" group-title="MUSIC",TRACE URBAN
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/33646
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS" tvg-logo="https://i.imgur.com/XxOdu7D.png" group-title="MUSIC",MTV HITS
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/22277
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL O" tvg-logo="https://i.imgur.com/ZlqV5dL.png" group-title="MUSIC",CHANNEL O
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/33645
+#EXTINF:-1 tvg-id="" tvg-name="AFRO BEATS" tvg-logo="https://i.imgur.com/cYl44pb.jpg" group-title="MUSIC",AFRO BEATS
+https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC PLUS" tvg-logo="https://i.imgur.com/7LqWtUH.png" group-title="MUSIC",MUSIC PLUS
 http://s02.diazol.hu:10192/stream.m3u8
-
 
 
 #EXTINF:-1 tvg-name="News Max" tvg-id="" tvg-logo="https://i.imgur.com/U0lOmkF.png" group-title="NEWS",News Max
@@ -53,6 +57,12 @@ https://vtx-ent.net:443/VTZzPtkEbc/UBPVaLRyxY/656
 
 #EXTINF:-1 tvg-name="Africa Magic Showcase" tvg-id="" tvg-logo="https://i.imgur.com/8rnXoq4.png" group-title="AFRICA",Africa Magic Showcase
 http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/51115
+#EXTINF:-1 tvg-name="Africa Magic Urban" tvg-id="" tvg-logo="https://i.imgur.com/usExg7v.png" group-title="AFRICA",Africa Magic Urban
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/33606
+#EXTINF:-1 tvg-name="Africa Magic Family" tvg-id="" tvg-logo="https://i.imgur.com/qaI7SuO.jpg" group-title="AFRICA",Africa Magic Family
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/32131
+#EXTINF:-1 tvg-name="Africa Magic Epic" tvg-id="" tvg-logo="https://i.imgur.com/qaI7SuO.jpg" group-title="AFRICA",Africa Magic Epic
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/32129
 
 
 
@@ -70,6 +80,12 @@ http://king-tv.online:8080/craig.oostingh/RXPpGTevt1/199219
 http://spidertv.xyz:2052/56790212/PEWSAWQ/36657
 #EXTINF:-1 tvg-name="MBC2" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",MBC2
 http://mhiptv.com:8888/onwer185/01009513779/3664
+#EXTINF:-1 tvg-name="MNET1" tvg-id="" tvg-logo="https://i.imgur.com/Bn6Z37a.png" group-title="MOVIES",MNET1
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/32140
+3#EXTINF:-1 tvg-name="MNET1" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIES",MNET3
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/32141
+#EXTINF:-1 tvg-name="MNET4" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIES",MNET4
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/33602
 #EXTINF:-1 tvg-name="SKY PREMIER VIP" tvg-id="" tvg-logo="https://i.imgur.com/jG4Gq6l.png" group-title="MOVIES",SKY PREMIER VIP
 http://primestreams.tv:826/014zWfKyYX/bVL7MExTi2/98793
 #EXTINF:-1 tvg-name="SKY CINEMA ACTION" tvg-id="" tvg-logo="https://i.imgur.com/bpgfiuM.png" group-title="MOVIES",SKY CINEMA ACTION
@@ -87,7 +103,7 @@ http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158319
 
 
 #EXTINF:-1 tvg-name="DISNEY JNR" tvg-id="" tvg-logo="https://i.imgur.com/Y8BOSvn.png" group-title="KIDS",DISNEY JNR
-http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000376
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/33644
 #EXTINF:-1 tvg-name="DISNEY JNR" tvg-id="" tvg-logo="https://i.imgur.com/Y8BOSvn.png" group-title="KIDS",DISNEY JNR
 http://yassooo.com:8080/benAlaa/829293992/68025
 #EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-id="" tvg-logo="https://i.imgur.com/027XSLG.png" group-title="KIDS",DISNEY CHANNEL
@@ -99,11 +115,11 @@ http://wagmaott.com:8080/chemsou-adminueJVqFhEZq/wiqSEvCtIS/42113
 #EXTINF:-1 tvg-name="DISNEY XD" tvg-id="" tvg-logo="https://i.imgur.com/hOqnKtX.png" group-title="KIDS",DISNEY XD
 http://wagmaott.com:8080/chemsou-adminueJVqFhEZq/wiqSEvCtIS/42113
 #EXTINF:-1 tvg-name="NICK" tvg-id="" tvg-logo="https://i.imgur.com/ze7dZal.png" group-title="KIDS",NICK
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38578
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/33643
 #EXTINF:-1 tvg-name="NICK" tvg-id="" tvg-logo="https://i.imgur.com/ze7dZal.png" group-title="KIDS",NICK
 http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/243672
 #EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",NICK JNR
-http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158577
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/33642
 #EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",NICK JNR
 http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38580
 
