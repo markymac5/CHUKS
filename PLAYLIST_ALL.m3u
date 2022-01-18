@@ -102,16 +102,20 @@ https://eja.tv/?eeb907b0269d524836b99722c82f76b0.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-name="News Max" tvg-id="" tvg-logo="https://i.imgur.com/U0lOmkF.png" group-title="NEWS",News Max
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
 http://flus3pnl.xyz:25461/speedhdhd/acjQyHovsC/1373
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
-http://tv.master22.xyz:25461/edilcasta/wL3yksZvZ2/53850
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23007
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
 http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/110.ts
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
-http://mains.services:2086/nick5404/9928627/95386
+http://flus3pnl.xyz:25461/speedhdhd/acjQyHovsC/1379
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
+http://flus3pnl.xyz:25461/speedhdhd/acjQyHovsC/1413
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="https://i.imgur.com/8dfvAm1.png" group-title="NEWS",Aljazeera
@@ -130,6 +134,14 @@ http://neczbm.to:80/play/NILJ5YL3QQXcj8iOxrtsGcF9WVYD6BiAJRrWOe96gKrpzn5SMvrtMx6
 https://vtx-ent.net:443/VTZzPtkEbc/UBPVaLRyxY/656
 #EXTINF:-1 tvg-id="" tvg-name="ARISE NEWS" tvg-logo="https://i.imgur.com/lSywOu8.jpg" group-title="NEWS",ARISE NEWS
 https://eja.tv/?0bd5615c9bb005ce0b54b925a365d4dc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MSNBC" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",MSNBC
+http://flus3pnl.xyz:25461/speedhdhd/acjQyHovsC/1403
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNBC
+http://flus3pnl.xyz:25461/speedhdhd/acjQyHovsC/1414
+#EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",ABC
+http://flus3pnl.xyz:25461/speedhdhd/acjQyHovsC/1417
+
+
 
 
 
@@ -164,6 +176,8 @@ http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/1227.ts
 http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/1308.ts
 #EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",USA Network
 http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/475.ts
+#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",USA Network
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23070
 #EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV1
 http://srvr1.torba.fun/8Y8MZd6kaf/mpegts?token=ee3daac94f9cd044fed286ebf0e921e4c3b46f34
 #EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV1
@@ -172,6 +186,10 @@ http://fr01.spr24.net/16608/mpegts?token=V9vvKZYcViyfeC
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="TRAVEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",TRAVEL
 http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/61.ts
+#EXTINF:-1 tvg-name="TRAVEL CHANNEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",TRAVEL CHANNEL
+http://flus3pnl.xyz:25461/speedhdhd/acjQyHovsC/1399
+#EXTINF:-1 tvg-name="TRAVEL CHANNEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",TRAVEL CHANNEL
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23066
 #EXTINF:-1 tvg-name="BIG BROTHER NAIJA" tvg-id="" tvg-logo="https://i.imgur.com/bV60olu.png" group-title="ENTERTAINMENT",BIG BROTHER NAIJA
 http://king-tv.online:8080/craig.oostingh/RXPpGTevt1/199219
 #EXTINF:-1 tvg-name="etv extra" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",etv extra
@@ -184,6 +202,8 @@ http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/31.ts
 http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/27.ts
 #EXTINF:-1 tvg-name="comedy central" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",comedy central
 http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/32132
+#EXTINF:-1 tvg-name="comedy central" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",comedy central
+http://flus3pnl.xyz:25461/speedhdhd/acjQyHovsC/1378
 #EXTINF:-1 tvg-name="CBS reality" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",CBS Reality
 http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/26.ts
 #EXTINF:-1 tvg-name="REAL TIME" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="ENTERTAINMENT",REAL TIME
@@ -194,6 +214,14 @@ http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/56.ts
 http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/32147
 #EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="ENTERTAINMENT",TLC
 http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/111.ts
+#EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="ENTERTAINMENT",TLC
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23064
+#EXTINF:-1 tvg-name="FOOD NETWORK" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="ENTERTAINMENT",FOOD NETWORK
+http://flus3pnl.xyz:25461/speedhdhd/acjQyHovsC/1374
+
+
+
+
 
 
 #EXTINF:-1 tvg-name="MBC2" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",MBC2
@@ -246,7 +274,7 @@ http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/33644
 #EXTINF:-1 tvg-name="DISNEY JNR" tvg-id="" tvg-logo="https://i.imgur.com/Y8BOSvn.png" group-title="KIDS",DISNEY JNR
 http://yassooo.com:8080/benAlaa/829293992/68025
 #EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-id="" tvg-logo="https://i.imgur.com/027XSLG.png" group-title="KIDS",DISNEY CHANNEL
-http://icego.club:80/vanderlei12/vanderlei12/54463
+http://flus3pnl.xyz:25461/speedhdhd/acjQyHovsC/1410
 #EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-id="" tvg-logo="https://i.imgur.com/027XSLG.png" group-title="KIDS",DISNEY CHANNEL
 http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/39141
 #EXTINF:-1 tvg-name="DISNEY XD" tvg-id="" tvg-logo="https://i.imgur.com/hOqnKtX.png" group-title="KIDS",DISNEY XD
